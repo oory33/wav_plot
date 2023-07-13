@@ -1,2 +1,12 @@
-build
 libs
+build/.cmake
+build/CMakeFiles
+build/CMakeCache.txt
+build/Makefile
+build/compile_commands.json
+build/compile_commands.json.tmpaa444
+build/cmake_install.cmake
+build/src/CMakeFiles
+build/src/cmake_install.cmake
+build/src/Makefile
+build/src/Draw_Wavforms_artefacts/JuceLibraryCode
